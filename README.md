@@ -26,8 +26,8 @@ This script evaluates the health of endpoints using a YAML configuration file wh
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone git@github.com:saumya1299/project-X.git
+   cd project-X
    ```
 
 2. Create a virtual environment:
